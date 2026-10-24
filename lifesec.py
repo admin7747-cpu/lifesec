@@ -1,0 +1,1 @@
+print('LifeSec Terminal Initialized')
